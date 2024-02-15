@@ -20,8 +20,8 @@ The project utilizes a publicly available SMS spam dataset, containing labeled S
 ## Installation
 - Clone the repository:
   ```
-  git clone https://github.com/AnkitSankhua/sms-spam-detection.git
-  cd sms-spam-detection
+  git clone https://github.com/aradhananayak/Sms-spammming-detection.git
+  cd Sms-spamming-detection
   ```
 - Install the required dependencies:
   ```
@@ -41,8 +41,10 @@ This project is licensed under the [BSD License](LICENSE)
 - We acknowledge the contributions of the open-source community and various libraries and frameworks used in this project, including scikit-learn.
 
 ## Authors
-- [Ankit Kumar Sankhua](https://github.com/AnkitSankhua)
+
 - [Aradhana Nayak](https://github.com/AradhanaNayak)
+- [Ankit Kumar Sankhua](https://github.com/AnkitSankhua)
+  
 
 
 __________________________________________________________________
